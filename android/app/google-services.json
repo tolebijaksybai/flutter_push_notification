@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "906769553798",
+    "project_id": "optomkakz",
+    "storage_bucket": "optomkakz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906769553798:android:59c3e11615c03badfa3407",
+        "android_client_info": {
+          "package_name": "com.example.fcm_push_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcvq-rCv0QBgKjjQ5YigiVj8N26obI1Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906769553798:android:26501ba6eeb81f81fa3407",
+        "android_client_info": {
+          "package_name": "com.example.fcm_tester"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcvq-rCv0QBgKjjQ5YigiVj8N26obI1Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906769553798:android:b0d62cdebe418b0cfa3407",
+        "android_client_info": {
+          "package_name": "com.example.optovka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcvq-rCv0QBgKjjQ5YigiVj8N26obI1Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
